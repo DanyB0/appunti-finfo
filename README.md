@@ -1,2 +1,2 @@
-# appunit-finfo
-appunti di fondamenti di informatica
+# appunti-finfo
+qualche appunto di fondamenti di informatica
